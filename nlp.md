@@ -10,3 +10,13 @@ A Primer on Neural Network Models  for Natural Language Processing
 https://medium.com/search?q=NLP
 
 https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
+
+http://www.hankcs.com/nlp/hanlp.html	
+
+Stanford-CoreNLP。
+
+https://www.slideshare.net/McK_CMSOForum/customer-journey-analytics-and-big-data	
+
+Deep Learning for IoT Big Data and Streaming Analytics: A Survey
+
+https://www.youtube.com/watch?v=lYaZFnO0WQ8
